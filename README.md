@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/side_logo.png" alt="Logo Nuragabuana" width="190"/>
+<img src="public/side-logo.png" alt="Logo Nuragabuana" width="190"/>
 
 # 🌿 Nuragabuana
 
